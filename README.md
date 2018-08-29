@@ -1,1 +1,1 @@
-# bootstrapcheatsheet
+# bootstrap cheatsheet
